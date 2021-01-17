@@ -1,0 +1,31 @@
+$bkgColor: #ececec;
+
+
+
+img{
+    max-width: 30%;
+    height: auto;
+
+}
+
+.bkg{
+    background-color: $bkgColor;
+}
+#sidebar{
+    background-color: #fff;
+
+}
+.movebtn{
+    transform: translate(-25px,4px);
+    outline-style: none;
+}
+.form-control:focus,.form-control:active {
+    outline: 0px 0px !important;
+    box-shadow: none !important;
+ }
+ .searchbar{
+     transform: translateX(-200px)!important;
+ }
+ .check {
+  padding: 0px;
+}
