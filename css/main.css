@@ -12,8 +12,8 @@ img {
 }
 
 .movebtn {
-  -webkit-transform: translate(-10px, 4px);
-          transform: translate(-10px, 4px);
+  -webkit-transform: translate(-25px, 4px);
+          transform: translate(-25px, 4px);
   outline-style: none;
 }
 
@@ -22,17 +22,13 @@ img {
   -webkit-box-shadow: none !important;
           box-shadow: none !important;
 }
-.check {
-  padding: 0px;
-}
 
-/*.searchbar {
+.searchbar {
   -webkit-transform: translateX(-200px) !important;
           transform: translateX(-200px) !important;
-          height: 5px;
-          font-size: 5px;
-}*/
-.check{
-    padding: 0px;
+}
+
+.check {
+  padding: 0px;
 }
 /*# sourceMappingURL=main.css.map */

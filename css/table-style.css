@@ -1,0 +1,19 @@
+.table > tbody > tr:nth-child(even) > td,
+.table > tbody > tr:nth-child(even) > th {
+  background-color: #e0e0e0;
+}
+
+button {
+  border-radius: 60%;
+  width: 70px;
+  height: 70px;
+  z-index: 1024;
+  outline: none;
+  -webkit-transform: translate(-45px, 10px);
+          transform: translate(-45px, 10px);
+}
+
+*:focus {
+  outline: 0 !important;
+}
+/*# sourceMappingURL=table-style.css.map */
