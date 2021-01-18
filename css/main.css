@@ -12,8 +12,9 @@ img {
 }
 
 .movebtn {
-  -webkit-transform: translate(-25px, 4px);
-          transform: translate(-25px, 4px);
+  -webkit-transform: translate(-13px, 1px);
+          transform: translate(-13px, 1px);
+  min-height: calc(1.5em + 0.75rem);
   outline-style: none;
 }
 
