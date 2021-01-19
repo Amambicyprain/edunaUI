@@ -16,9 +16,13 @@ img{
 
 }
 .movebtn{
-    transform: translate(-13px,1px);
+    transform: translate(-15px,1px);
     min-height: calc(1.5em + 0.75rem );
-    outline-style: none;
+    border-bottom: 1px solid lightgray;
+    border-top:1px solid lightgray ;
+    border-right:1px solid  lightgray ;
+    border-left: 0;
+     outline-style: none;
 }
 .form-control:focus,.form-control:active {
     outline: 0px 0px !important;
